@@ -1,0 +1,21 @@
+
+body {
+	max-width: 960px;
+	margin: auto;
+	font-family: sans-serif;
+}
+
+
+.tucentro h2 {font-size: 2rem}
+
+.visita {
+	background-color: black;
+	color: white;
+	text-align: center;
+	padding: 1rem;
+}
+
+.descubre{
+	text-align: center;
+	padding: 1rem;
+}
